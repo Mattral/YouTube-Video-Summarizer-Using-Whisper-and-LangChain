@@ -15,7 +15,7 @@ First, we download the youtube video we are interested in and transcribe it usin
 
 ## Introduction
 
-In the digital era, the abundance of information can be overwhelming, and we often find ourselves scrambling to consume as much content as possible within our limited time. YouTube is a treasure trove of knowledge and entertainment, but it can be challenging to sift through long videos to extract the key takeaways. Worry not, as we've got your back! In this lesson, we will unveil a powerful solution to help you efficiently summarize YouTube videos using two cutting-edge tools: Whisper and LangChain.
+In the digital era, the abundance of information can be overwhelming, and we often find ourselves scrambling to consume as much content as possible within our limited time. YouTube is a treasure trove of knowledge and entertainment, but it can be challenging to sift through long videos to extract the key takeaways. Worry not, as we've got your back! In this repo, we will unveil a powerful solution to help you efficiently summarize YouTube videos using two cutting-edge tools: Whisper and LangChain.
 
 Workflow:
 - Download the YouTube audio file.
@@ -24,7 +24,7 @@ Workflow:
 - Adding multiple URLs to DeepLake database, and retrieving information. 
 Installations:
 
-Remember to install the required packages with the following command: pip install langchain deeplake openai tiktoken. Additionally, install also the yt_dlp and openai-whisper packages, which have been tested in this lesson with versions  2023.6.21 and 20230314, respectively.
+Remember to install the required packages with the following command: pip install langchain deeplake openai tiktoken. Additionally, install also the yt_dlp and openai-whisper packages, which have been tested in this repo with versions  2023.6.21 and 20230314, respectively.
 
 ```
 !pip install -q yt_dlp
