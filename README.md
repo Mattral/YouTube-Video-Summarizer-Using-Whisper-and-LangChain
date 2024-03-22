@@ -1,5 +1,4 @@
 # YouTube-Video-Summarizer-Using-Whisper-and-LangChain
-YouTube Video Summarizer Using Whisper and LangChain
 
  It is possible to effectively extract key takeaways from videos by leveraging Whisper to transcribe YouTube audio files and utilizing LangChain's summarization techniques, including stuff, refine, and map_reduce. We also highlighted the customizability of LangChain, allowing personalized prompts, multilingual summaries, and storage of URLs in a Deep Lake vector store. By implementing these advanced tools, you can save time, enhance knowledge retention, and improve your understanding of various topics. Enjoy the tailored experience of data storage and summarization with LangChain and Whisper.
 
